@@ -1,6 +1,6 @@
 $(document).ready(function() {
 		   
-	var slider = $("#image_list");                     
+	var slider = $("#image_list");                     // slider = ul element
 	var leftProperty, newleftProperty;
 		
 	// the click event handler for the right button						
